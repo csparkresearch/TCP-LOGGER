@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/explib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/explib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 43,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/explib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 43,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/explib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/explib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 585
+                    }
+                }
+            }
+        ]
+    }
+]

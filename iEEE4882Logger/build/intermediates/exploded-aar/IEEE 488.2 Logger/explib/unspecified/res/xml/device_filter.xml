@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 0x04D8 / 0x00DF microHope/ Expeyes -->
+    <usb-device vendor-id="1240" product-id="223" />
+    
+</resources>
+
+

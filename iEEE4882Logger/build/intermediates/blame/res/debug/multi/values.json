@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/exploded-aar/IEEE 488.2 Logger/explib/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 64,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 64,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 52,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 52,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

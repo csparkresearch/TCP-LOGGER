@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jithin/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/pre-dexed/debug/support-v4-19.1.0_b4925f794b5cb2c42bfac5ecf2c1cc969b3a4d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/exploded-aar/IEEE 488.2 Logger/explib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="574d9071c5d70b8b829d5ce73318480c94c0fac2">
+        <dex dex="/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/pre-dexed/debug/IEEE 488.2 Logger-explib-unspecified_32bd6917fb62b4692b4846142412f697f5dd5994.jar" />
+    </item>
+
+</items>

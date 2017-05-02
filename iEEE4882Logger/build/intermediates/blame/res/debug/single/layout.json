@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/build/intermediates/res/merged/debug/layout/activity_logger.xml",
+        "source": "/home/jithin/ACTIVE_PROJECTS/AndroidStudio/IEEE 488.2 Logger/iEEE4882Logger/src/main/res/layout/activity_logger.xml"
+    }
+]
